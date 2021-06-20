@@ -1,7 +1,7 @@
 # Credit-card-Lead-prediction
 Supervised Learning - Classification Problem
 
-Problem Statement
+## Problem Statement
 Happy Customer Bank is a mid-sized private bank that deals in all kinds of banking products, like Savings accounts, Current accounts, investment products, 
 credit products, among other offerings.
 
@@ -15,6 +15,6 @@ Now, the bank is looking for your help in identifying customers that could show 
 Customer details (gender, age, region etc.)
 Details of his/her relationship with the bank (Channel_Code, Vintage, Avg_Asset_Value etc.)
 
-Source
+## Source of Data
 
 This dataset was taken from Analytics Vidhya's Job-A-Thon 2021.
