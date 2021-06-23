@@ -17,4 +17,4 @@ Details of his/her relationship with the bank (Channel_Code, Vintage, Avg_Asset_
 
 ## Source of Data
 
-This dataset was taken from Analytics Vidhya's Job-A-Thon 2021.
+This dataset was taken from Analytics Vidhya's Job-A-Thon 2021 competetion dataset.
